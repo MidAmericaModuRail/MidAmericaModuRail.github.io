@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Upcomming Events"
+
 permalink: /events/
 ---
 September 2018 Operating Session 
