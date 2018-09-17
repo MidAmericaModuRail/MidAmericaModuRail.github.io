@@ -1,10 +1,8 @@
 ---
-layout: single
-title: "Upcomming Events"
-
-permalink: /events/
+layout: posts
+title: "September 2018 Operating Session"
 ---
-September 2018 Operating Session 
+September 2018 Operating Session
 
 Dates and Times:
 - Saturday, September 22, 2018 - 12:00 PM to 4:00 PM
@@ -17,4 +15,3 @@ Locaiton:
 Northbrook Court,
 1515 Lake Cook Road,
 Northbrook, IL 60062
-
