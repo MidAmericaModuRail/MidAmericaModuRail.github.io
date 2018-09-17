@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Upcomming Events"
-permalink: /Events/
+permalink: /events/
 ---
 September 2018 Operating Session 
 
