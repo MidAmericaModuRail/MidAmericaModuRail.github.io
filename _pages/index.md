@@ -1,6 +1,6 @@
 ---
 layout: splash
-
+permalink: /
 feature_row:
   - image_path: /assets/images/image001.jpg
     title: "About Us"

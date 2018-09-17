@@ -60,13 +60,13 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true 
-search_full_content      : # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search_full_content      : true # true, false (default)
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : 32DQFTEU1U # YOUR_APPLICATION_ID
+  index_name             : search_index # YOUR_INDEX_NAME
+  search_only_api_key    : 5220f9a42fe1f3f7f08f080be5782d8f # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -272,6 +272,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  fevents:
+    output: true
+    permalink: /:collection:/:path/
 
 # Defaults
 defaults:
@@ -286,11 +290,20 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: posts
+      layout: single
       author_profile: false
       read_time: false
       comments: true
       share: true
       related: true
-
+  - scope:
+      path: ""
+      type: fevents
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      related: true
 

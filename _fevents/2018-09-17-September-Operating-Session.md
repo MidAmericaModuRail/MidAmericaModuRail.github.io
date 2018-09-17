@@ -1,5 +1,6 @@
 ---
-title: "September 2018 Operating Session"
+name: "September 2018 Operating Session"
+position: Test
 category: future event
 ---
 September 2018 Operating Session
