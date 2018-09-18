@@ -28,7 +28,14 @@ gallery:
     image_path: /assets/images/image006.jpg
     alt: "placeholder image 6"
     title: "Image 6 title caption"
-
+  - url: /assets/images/image007.jpg
+    image_path: /assets/images/image007.jpg
+    alt: "placeholder image 7"
+    title: "Image 7 title caption"
+  - url: /assets/images/image008.jpg
+    image_path: /assets/images/image008.jpg
+    alt: "placeholder image 8"
+    title: "Image 8 title caption"
 ---
 Here are some images from our previous operating events.
 {% include gallery caption="" %}
