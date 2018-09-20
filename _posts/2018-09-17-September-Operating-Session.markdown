@@ -4,6 +4,10 @@ category: future event
 ---
 September 2018 Operating Session
 
+The Mid-America ModuRail Club will be holding a HO train exhibit.  Come out to see the trains.  Admission is free.  
+
+For more information call Bruce at (847) 480-0853 or email info@midamericamodurail.org 
+
 Dates and Times:
 - Saturday, September 22, 2018 - 12:00 PM to 4:00 PM
 - Sunday, September 23, 2018 - 12:00 PM to 3:00 PM
@@ -15,3 +19,5 @@ Location:
 Northbrook Court,
 1515 Lake Cook Road,
 Northbrook, IL 60062
+
+Lower Level near Neiman Marcus.
