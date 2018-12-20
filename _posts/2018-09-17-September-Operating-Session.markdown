@@ -1,6 +1,7 @@
 ---
+layout: single
 title: "September 2018 Operating Session"
-category: future event
+category: Past 
 ---
 September 2018 Operating Session
 

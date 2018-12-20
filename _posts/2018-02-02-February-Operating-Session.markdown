@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "January 2018 Operating Session"
-category: future event
-published: false
+category: Past
+published: true
 ---
 January 2018 Operating Session
 
