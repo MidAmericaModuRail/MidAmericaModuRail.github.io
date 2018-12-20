@@ -3,8 +3,6 @@ name: "January 2019 Operating Session"
 position: Test
 category: future event
 ---
-# January 2019 Model Train Operating Session
-
 The Mid-America ModuRail Club will be holding a HO scale model train exhibit. Come out to see the trains. Admission is free.
 
 For more information call Bruce at (847) 480-0853 or email info@midamericamodurail.org
