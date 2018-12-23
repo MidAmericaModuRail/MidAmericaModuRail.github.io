@@ -3,39 +3,83 @@ layout: single
 title: "Gallery"
 permalink: /gallery/
 
-gallery:
-  - url: /assets/images/image001.jpg
-    image_path: /assets/images/image001.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/image002.jpg
-    image_path: /assets/images/image002.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/image003.jpg
-    image_path: /assets/images/image003.jpg
-    alt: "placeholder image 3"
-    title: "Image 2 title caption"
-  - url: /assets/images/image004.jpg
-    image_path: /assets/images/image004.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/image005.jpg
-    image_path: /assets/images/image005.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
-  - url: /assets/images/image006.jpg
-    image_path: /assets/images/image006.jpg
-    alt: "placeholder image 6"
-    title: "Image 6 title caption"
-  - url: /assets/images/image007.jpg
-    image_path: /assets/images/image007.jpg
-    alt: "placeholder image 7"
-    title: "Image 7 title caption"
-  - url: /assets/images/image008.jpg
-    image_path: /assets/images/image008.jpg
-    alt: "placeholder image 8"
-    title: "Image 8 title caption"
+gallery-2018-09:
+  - url: /assets/2018-09/2018-09-Operating-Session-03.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-03.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-04.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-04.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-05.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-05.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-06.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-06.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-07.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-07.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-08.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-08.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-09.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-09.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-10.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-10.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-11.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-11.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-12.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-12.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-13.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-13.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-14.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-14.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-15.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-15.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-16.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-16.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-17.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-17.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-18.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-18.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-19.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-19.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-20.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-20.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-21.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-21.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-01.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-01.jpg
+  - url: /assets/2018-09/2018-09-Operating-Session-02.jpg
+    image_path: /assets/2018-09/2018-09-Operating-Session-02.jpg
+
+gallery-2017-03:
+  - url: /assets/2017-03/2017-03-Operating-Session-01.jpg
+    image_path: /assets/2017-03/2017-03-Operating-Session-01.jpg
+  - url: /assets/2017-03/2017-03-Operating-Session-02.jpg
+    image_path: /assets/2017-03/2017-03-Operating-Session-02.jpg
+  - url: /assets/2017-03/2017-03-Operating-Session-03.jpg
+    image_path: /assets/2017-03/2017-03-Operating-Session-03.jpg
+  - url: /assets/2017-03/2017-03-Operating-Session-04.jpg
+    image_path: /assets/2017-03/2017-03-Operating-Session-04.jpg
+  - url: /assets/2017-03/2017-03-Operating-Session-05.jpg
+    image_path: /assets/2017-03/2017-03-Operating-Session-05.jpg
+  - url: /assets/2017-03/2017-03-Operating-Session-06.jpg
+    image_path: /assets/2017-03/2017-03-Operating-Session-06.jpg
+  - url: /assets/2017-03/2017-03-Operating-Session-07.jpg
+    image_path: /assets/2017-03/2017-03-Operating-Session-07.jpg
+
+gallery-2014-03:
+  - url: /assets/2014-03/2014-03-Operating-Session-01.jpg
+    image_path: /assets/2014-03/2014-03-Operating-Session-01.jpg
+  - url: /assets/2014-03/2014-03-Operating-Session-02.jpg
+    image_path: /assets/2014-03/2014-03-Operating-Session-02.jpg
+  - url: /assets/2014-03/2014-03-Operating-Session-03.jpg
+    image_path: /assets/2014-03/2014-03-Operating-Session-03.jpg
 ---
 Here are some images from our previous operating events.
-{% include gallery caption="" %}
+### September 2018 Model Train Operating Session 
+[Northbrook Court](http://www.northbrookcourt.com)
+{% include gallery id="gallery-2018-09" %}
+
+### March 2018 Model Train Operating Session
+[Northbrook Historical Society](http://www.northbrookhistory.org)
+{% include gallery id="gallery-2017-03" %}
+
+### March 2014 Model Train Operating Session
+[Northbrook Historical Society](http://www.northbrookhistory.org)
+{% include gallery id="gallery-2014-03" %}
