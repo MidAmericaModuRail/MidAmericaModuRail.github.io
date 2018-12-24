@@ -3,6 +3,9 @@ layout: single
 title: "Gallery"
 permalink: /gallery/
 
+toc: true
+toc_label: "Photos by Event"
+
 gallery-2018-09:
   - url: /assets/2018-09/2018-09-Operating-Session-03.jpg
     image_path: /assets/2018-09/2018-09-Operating-Session-03.jpg
