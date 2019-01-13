@@ -12,4 +12,5 @@ permalink: /fevents/
   </h2>
 
 <p>{{ fevents.content | markdownify }}</p>
+<hr>
 {% endfor %}
