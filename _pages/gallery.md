@@ -6,6 +6,21 @@ permalink: /gallery/
 toc: true
 toc_label: "Photos by Event"
 
+gallery-2019-01:
+  - url: /assets/2019-01/2019-01-Operating-Session-01.jpg
+    image_path: /assets/2019-01/2019-01-Operating-Session-01.jpg
+  - url: /assets/2019-01/2019-01-Operating-Session-02.jpg
+    image_path: /assets/2019-01/2019-01-Operating-Session-02.jpg
+  - url: /assets/2019-01/2019-01-Operating-Session-03.jpg
+    image_path: /assets/2019-01/2019-01-Operating-Session-03.jpg
+  - url: /assets/2019-01/2019-01-Operating-Session-04.jpg
+    image_path: /assets/2019-01/2019-01-Operating-Session-04.jpg
+  - url: /assets/2019-01/2019-01-Operating-Session-05.jpg
+    image_path: /assets/2019-01/2019-01-Operating-Session-05.jpg
+  - url: /assets/2019-01/2019-01-Operating-Session-06.jpg
+    image_path: /assets/2019-01/2019-01-Operating-Session-06.jpg
+
+
 gallery-2018-09:
   - url: /assets/2018-09/2018-09-Operating-Session-03.jpg
     image_path: /assets/2018-09/2018-09-Operating-Session-03.jpg
@@ -75,6 +90,10 @@ gallery-2014-03:
     image_path: /assets/2014-03/2014-03-Operating-Session-03.jpg
 ---
 Here are some images from our previous operating events.
+### January 2019 Model Train Operating Session
+[Northbrook Court](http://www.northbrookcourt.com)
+{% include gallery id="gallery-2019-01" %}
+
 ### September 2018 Model Train Operating Session 
 [Northbrook Court](http://www.northbrookcourt.com)
 {% include gallery id="gallery-2018-09" %}
