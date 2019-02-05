@@ -19,6 +19,8 @@ gallery-2019-01:
     image_path: /assets/2019-01/2019-01-Operating-Session-05.jpg
   - url: /assets/2019-01/2019-01-Operating-Session-06.jpg
     image_path: /assets/2019-01/2019-01-Operating-Session-06.jpg
+  - url: /assets/2019-01/2019-01-Operating-Session-07.jpg
+    image_path: /assets/2019-01/2019-01-Operating-Session-07.jpg
 
 
 gallery-2018-09:

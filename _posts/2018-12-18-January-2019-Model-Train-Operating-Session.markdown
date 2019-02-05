@@ -1,7 +1,8 @@
 ---
+layout: archive
 name: "January 2019 Model Train Operating Session"
 position: Test
-category: Future Event
+category: Past Event
 ---
 The Mid-America ModuRail Club will be holding a HO scale model train exhibit. Come out to see the trains. Admission is free.
 
