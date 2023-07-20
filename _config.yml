@@ -98,6 +98,7 @@ analytics:
     tracking_id          : UA-125828332-1
     anonymize_ip         : # true, false (default)
 
+google_analytics:  G-F4BS0FG9DP
 
 # Site Author
 author:
